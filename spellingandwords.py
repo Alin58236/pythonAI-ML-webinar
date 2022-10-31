@@ -153,4 +153,4 @@ import matplotlib.pyplot as plt
 axes= df.plot.bar(x='word', y='count')
 plt.gcf().tight_layout()
 
-plt.show(x,y)
+plt.show()
